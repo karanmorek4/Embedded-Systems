@@ -1,0 +1,45 @@
+What is an IDE and compiler ? List out differences ? 
+
+IDE (Integrated Development Environment) is a software application that provides a environment for software development, including code editing, debugging, and testing.
+Compiler is a computer program that converts source code written in a high-level programming language into machine code that can be executed by a computer.
+Differences between IDE and Compiler:
+1) An IDE combines multiple tools such as a compiler, text editor, and debugger into a single application, while a compiler is just one of these tools.
+2) An IDE provides a visual interface for software development, while a compiler operates from the command line.
+
+What is a Bootloader and how does it work?
+
+A bootloader is a small program that is executed when a computer or device starts up. Its primary function is to load the operating system into memory and start its execution.
+1.The bootloader is stored in a specific location on the device's non-volatile memory (such as a hard drive or flash memory).
+2.When the device is powered on, the CPU fetches and executes the bootloader.
+3.The bootloader then determines the location of the operating system and loads it into memory.
+4.The bootloader hands over control of the device to the operating system, which then continues to boot and start other necessary processes.
+
+What do you understand by OTA update ?
+
+OTA (Over-the-Air) update is a method of delivering new software updates to a device wirelessly, without the need for a physical connection to a computer
+1.The device periodically checks for available updates from a server maintained by the manufacturer or service provider.
+2.If an update is available, the device downloads the update package over a network connection.
+3.The device then installs the update, which can include bug fixes, security patches, or new features.
+4.The device then restarts to complete the update process.
+
+List the differences between baremetal vs RTOS programming?
+
+Baremetal and RTOS (Real-Time Operating System) are two different approaches to programming embedded systems.
+
+Differences between BareMetal and RTOS:
+
+1.Purpose: BareMetal programming is used to develop systems with a single program running directly on hardware, while RTOS is used to develop systems with multiple, concurrent tasks that require real-time response.
+2.Resource Management: In Bare Metal, the programmer must manually manage system resources such as memory and CPU time, while an RTOS provides these resources through built-in functions and APIs.
+3.Interrupts: In Bare Metal, the programmer must manually handle and prioritize interrupt requests, while an RTOS provides a priority-based interrupt management system.
+4.Task Management: In Bare Metal, the programmer must manually manage tasks, while an RTOS provides scheduling and synchronization primitives to manage tasks.
+5.Flexibility: Bare Metal programming provides low-level control over the hardware, but requires more programming effort, while RTOS provides higher-level abstractions, but may impose constraints on the system design.
+
+How to choose between baremetal and RTOS for project ?
+
+1.Project Requirements: If your project requires real-time performance, multiple concurrent tasks, or complex system interactions, an RTOS may be the better choice. If your project has simpler requirements, bare metal programming may be sufficient.
+
+2.Resource Constraints: If your project has strict requirements for memory usage, power consumption, or processing time, bare metal programming may provide more control over these resources. If you have more flexibility in these areas, an RTOS may be the better choice.
+
+3.Development Team Skills: If your development team is experienced in bare metal programming, or if your project requires low-level control over hardware, bare metal programming may be the better choice. If your team is more familiar with RTOS development, or if your project requires high-level abstractions and system-level services, RTOS may be the better choice.
+
+4.Time and Cost Constraints: Bare metal programming requires more programming effort and may take longer to develop, while RTOS provides higher-level abstractions that can reduce development time and cost. Consider your project timelines and budget when making your choice.
