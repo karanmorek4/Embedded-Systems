@@ -1,0 +1,57 @@
+List out (at least 5) microcontroller supplier companies. 
+
+1.Microchip Technology: One of the largest suppliers of microcontrollers, Microchip offers a wide range of 8-bit, 16-bit, and 32-bit microcontrollers for various applications.
+
+2.Texas Instruments: A major supplier of microcontrollers and other semiconductors, Texas Instruments offers a wide range of microcontrollers for embedded systems and other applications.
+
+3.NXP Semiconductors: A global supplier of microcontrollers and other semiconductors, NXP offers a wide range of microcontrollers for automotive, industrial, and consumer applications.
+
+4.Atmel (now part of Microchip): A supplier of microcontrollers, Atmel was acquired by Microchip Technology in 2016. Atmel offers a range of 8-bit, 16-bit, and 32-bit microcontrollers for various applications.
+
+5.STMicroelectronics: A global supplier of microcontrollers and other semiconductors, STMicroelectronics offers a range of microcontrollers for automotive, industrial, and consumer applications.
+
+List out (at least 5) microprocessor supplier companies.
+
+Here are five companies that supply microprocessors:
+
+1.Intel Corporation: One of the largest and most well-known suppliers of microprocessors, Intel offers a wide range of microprocessors for personal computers, servers, and other applications.
+
+2.Advanced Micro Devices (AMD): A supplier of microprocessors for personal computers, servers, and other applications, AMD offers a range of microprocessors that compete with those from Intel.
+
+3.Qualcomm: A supplier of microprocessors for mobile devices, Qualcomm offers a range of microprocessors for smartphones, tablets, and other mobile devices.
+
+4.Apple Inc.: A supplier of microprocessors for its own devices, Apple designs and manufactures custom microprocessors for its Mac computers, iPhones, and other devices.
+
+5.Samsung Electronics: A supplier of microprocessors for mobile devices and other applications, Samsung offers a range of microprocessors for smartphones, tablets, and other devices.
+
+What is system on chip (SoC) ? Give any 2 examples of SoC.
+
+A system-on-a-chip (SoC) is an integrated circuit (IC) that integrates all components of a computer or other electronic system onto a single chip. SoCs are designed to minimize the number of external components required and provide a compact, integrated solution for electronic devices.
+
+SoCs typically include a microprocessor or microcontroller, memory, and input/output interfaces, as well as other components such as digital signal processors (DSPs), graphics processing units (GPUs), and video decoders. By integrating these components onto a single chip, SoCs can provide a compact, low-power solution for electronic devices, making them well-suited for use in embedded systems, mobile devices, and other applications where size and power consumption are important considerations.
+
+Here are two examples of SoCs:
+
+1.Qualcomm Snapdragon: A popular SoC used in many smartphones, the Snapdragon combines a CPU, GPU, and other components onto a single chip.
+
+2.Apple A-series: A line of SoCs used in iPhones and iPads, the A-series combines a CPU, GPU, and other components onto a single chip, providing a compact and powerful solution for these devices.
+
+What are the differences between opcode and hex code ?
+
+Opcode and hex code are two different representations of machine code, which is the binary code that is executed directly by a computer's processor.
+
+Opcode, or operation code, refers to the instruction part of machine code, which specifies the operation that the processor should perform. It is typically represented as a mnemonic, such as "ADD" or "MOV," that is easier for humans to understand than binary code.
+
+Hex code, or hexadecimal code, is a representation of machine code in which each byte of code is represented by two hexadecimal digits. This representation is useful because it allows machine code to be easily viewed and manipulated by humans. Each hexadecimal digit represents four bits of binary code, and so two hexadecimal digits represent one byte of machine code.
+
+What are the advantages of digital systems over analog systems ?
+
+1.Precision: Digital systems can represent information with a high degree of precision, as they use a limited set of discrete values to represent information. Analog systems, on the other hand, can suffer from inaccuracies due to noise and other factors.
+
+2.Reproducibility: Digital systems can reproduce signals and data accurately, as each bit of information can be precisely copied from one location to another. Analog systems, on the other hand, can suffer from signal degradation and loss of information during reproduction.
+
+3.Robustness: Digital systems are more robust than analog systems, as they are less susceptible to noise and other factors that can degrade signal quality. This makes digital systems more reliable and less prone to errors.
+
+4.Processing: Digital systems are well-suited for processing and manipulation of information, as they can perform mathematical operations on binary data with great accuracy and efficiency. Analog systems, on the other hand, are limited in their ability to perform these operations.
+
+5.Interfacing: Digital systems are often easier to interface with other digital systems and digital devices, as they use standardized communication protocols and digital inputs and outputs. Interfacing with analog systems can be more complex and subject to errors.
