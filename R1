@@ -1,0 +1,81 @@
+What is the boot process of a computer  and what is a BIOS ?
+
+The boot process of a computer refers to the sequence of events that occur from the time the computer is turned on until the operating system is fully loaded. The boot process typically involves several stages, including:
+
+1.Power-on self-test (POST): The computer performs a quick check of its hardware components to make sure they are functioning properly.
+
+2.BIOS: The basic input/output system (BIOS) initializes the hardware and performs system configuration. The BIOS is stored in a chip on the motherboard and is the first software that runs when the computer starts.
+
+3.Loading the boot loader: The BIOS searches for the boot loader and transfers control to it. The boot loader then loads the operating system into memory.
+
+4.Operating system boot: The operating system starts and performs additional initialization tasks, such as loading device drivers and starting services.
+
+5.Login prompt: Once the operating system is fully loaded, the user is presented with a login prompt, where they can enter their username and password to gain access to the system.
+
+BIOS, as mentioned above, stands for Basic Input/Output System, it is a firmware program that provides a basic interface between the operating system and the computer's hardware components. The BIOS is responsible for initializing the computer's hardware components and performing system configuration, such as setting the clock speed and memory size, before handing control over to the operating system.
+
+How operating system works ? List down 5 tasks of an OS.
+
+An operating system (OS) is a software program that manages the hardware and software resources of a computer. It acts as an intermediary between the computer's hardware and the programs that run on the computer. The following are five important tasks of an operating system:
+
+1.Resource Management: The OS is responsible for allocating and managing the computer's resources, such as CPU time, memory, and input/output devices.
+
+2.Memory Management: The OS manages the allocation and deallocation of memory to different programs, ensuring that each program has enough memory to run correctly and preventing programs from interfering with one another.
+
+3.Process Management: The OS is responsible for creating and managing processes, which are individual instances of programs running on the computer. The OS assigns priority to processes, allocates resources to them, and coordinates communication between processes.
+
+4.File Management: The OS is responsible for managing the file system, including creating, deleting, and organizing files and directories. The OS also provides a standardized interface for programs to access files.
+
+5.Security: The OS is responsible for enforcing security measures, such as controlling access to files and resources, preventing unauthorized access to the system, and protecting against malware and other security threats.
+
+What are the single board computers (SBC)? List down 5 examples.
+
+Single board computers (SBCs) are small, low-cost computers that are built onto a single circuit board. They typically include a CPU, RAM, storage, and other basic components, and are often used for embedded applications, prototyping, and education. Here are five examples of single board computers:
+
+1.Raspberry Pi: One of the most popular SBCs, the Raspberry Pi is a low-cost computer that has been widely adopted for education and hobbyist projects.
+
+2.Arduino: Originally designed as a microcontroller platform for controlling electronics projects, the Arduino has evolved into a full-fledged single board computer.
+
+3.Odroid: A line of high-performance single board computers that are designed for more demanding applications, such as gaming, media playback, and data analysis.
+
+4.BeagleBoard: A line of single board computers that are designed for advanced hobbyist projects and industrial applications, such as robotics and embedded systems.
+
+5.Jetson Nano: A single board computer from NVIDIA that is designed for AI and machine learning applications, including image and video processing, speech recognition, and autonomous robots.
+
+These are just a few examples of the many single board computers that are available today. SBCs offer a convenient and low-cost way for users to experiment with computer technology, develop prototypes, and create custom applications.
+
+
+Which SoC is used in Raspberry pi, Beagle board black, Banana Pi,  Jetson Nano, Coral Dev Board ?
+
+Here's the SoC (System on a Chip) used in each of the boards you listed:
+
+1.Raspberry Pi: Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit SoC @ 1.4GHz
+
+2.BeagleBoard Black: Texas Instruments AM3358BZCZ100, 1GHz ARM® Cortex-A8
+
+3.Banana Pi: Allwinner A20, Dual-core ARM Cortex-A7 CPU
+
+4.Jetson Nano: NVIDIA Tegra X1, Maxwell GPU with 128 NVIDIA CUDA cores
+
+5.Coral Dev Board: MediaTek MT8183, Octa-core Arm Cortex-A73 and Cortex-A53 CPU.
+
+What is Real-time operating system ?
+
+A real-time operating system (RTOS) is an operating system that is designed to guarantee a certain processing time to a task or set of tasks in order to meet specific deadlines. Unlike general-purpose operating systems, which may have variable and unpredictable processing times, RTOSs provide predictable and deterministic behavior, ensuring that critical tasks are completed within specific time constraints.
+
+RTOSs are commonly used in embedded systems, industrial control systems, medical devices, and other applications where it is important to guarantee a response within a certain time frame. They typically have smaller footprints and lower overhead than general-purpose operating systems, which makes them well-suited for use in resource-constrained environments.
+
+Some common features of RTOSs include:
+
+1.Preemptive scheduling: The RTOS is able to interrupt a task that is running and switch to another task with a higher priority.
+
+2.Interrupt handling: RTOSs provide efficient mechanisms for handling and prioritizing hardware and software interrupts.
+
+3.Fast task switching: RTOSs are optimized for fast task switching, allowing tasks to be switched quickly and with a minimal amount of overhead.
+
+4.Real-time performance: RTOSs provide predictable and deterministic behavior, ensuring that critical tasks are completed within specific time constraints.
+
+5.Memory management: RTOSs typically have more efficient memory management than general-purpose operating systems, which is important for real-time performance.
+
+Overall, RTOSs are designed to meet the needs of applications that require predictable, real-time performance.
+
