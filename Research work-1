@@ -1,4 +1,4 @@
-What is the boot process of a computer  and what is a BIOS ?
+1)What is the boot process of a computer  and what is a BIOS ?
 
 The boot process of a computer refers to the sequence of events that occur from the time the computer is turned on until the operating system is fully loaded. The boot process typically involves several stages, including:
 
@@ -14,7 +14,7 @@ The boot process of a computer refers to the sequence of events that occur from 
 
 BIOS, as mentioned above, stands for Basic Input/Output System, it is a firmware program that provides a basic interface between the operating system and the computer's hardware components. The BIOS is responsible for initializing the computer's hardware components and performing system configuration, such as setting the clock speed and memory size, before handing control over to the operating system.
 
-How operating system works ? List down 5 tasks of an OS.
+2)How operating system works ? List down 5 tasks of an OS.
 
 An operating system (OS) is a software program that manages the hardware and software resources of a computer. It acts as an intermediary between the computer's hardware and the programs that run on the computer. The following are five important tasks of an operating system:
 
@@ -28,7 +28,7 @@ An operating system (OS) is a software program that manages the hardware and sof
 
 5.Security: The OS is responsible for enforcing security measures, such as controlling access to files and resources, preventing unauthorized access to the system, and protecting against malware and other security threats.
 
-What are the single board computers (SBC)? List down 5 examples.
+3)What are the single board computers (SBC)? List down 5 examples.
 
 Single board computers (SBCs) are small, low-cost computers that are built onto a single circuit board. They typically include a CPU, RAM, storage, and other basic components, and are often used for embedded applications, prototyping, and education. Here are five examples of single board computers:
 
@@ -45,7 +45,7 @@ Single board computers (SBCs) are small, low-cost computers that are built onto 
 These are just a few examples of the many single board computers that are available today. SBCs offer a convenient and low-cost way for users to experiment with computer technology, develop prototypes, and create custom applications.
 
 
-Which SoC is used in Raspberry pi, Beagle board black, Banana Pi,  Jetson Nano, Coral Dev Board ?
+4)Which SoC is used in Raspberry pi, Beagle board black, Banana Pi,  Jetson Nano, Coral Dev Board ?
 
 Here's the SoC (System on a Chip) used in each of the boards you listed:
 
@@ -59,7 +59,7 @@ Here's the SoC (System on a Chip) used in each of the boards you listed:
 
 5.Coral Dev Board: MediaTek MT8183, Octa-core Arm Cortex-A73 and Cortex-A53 CPU.
 
-What is Real-time operating system ?
+5)What is Real-time operating system ?
 
 A real-time operating system (RTOS) is an operating system that is designed to guarantee a certain processing time to a task or set of tasks in order to meet specific deadlines. Unlike general-purpose operating systems, which may have variable and unpredictable processing times, RTOSs provide predictable and deterministic behavior, ensuring that critical tasks are completed within specific time constraints.
 
