@@ -1,4 +1,4 @@
-List out (at least 5) microcontroller supplier companies. 
+1)List out (at least 5) microcontroller supplier companies. 
 
 1.Microchip Technology: One of the largest suppliers of microcontrollers, Microchip offers a wide range of 8-bit, 16-bit, and 32-bit microcontrollers for various applications.
 
@@ -10,7 +10,7 @@ List out (at least 5) microcontroller supplier companies.
 
 5.STMicroelectronics: A global supplier of microcontrollers and other semiconductors, STMicroelectronics offers a range of microcontrollers for automotive, industrial, and consumer applications.
 
-List out (at least 5) microprocessor supplier companies.
+2)List out (at least 5) microprocessor supplier companies.
 
 Here are five companies that supply microprocessors:
 
@@ -24,7 +24,7 @@ Here are five companies that supply microprocessors:
 
 5.Samsung Electronics: A supplier of microprocessors for mobile devices and other applications, Samsung offers a range of microprocessors for smartphones, tablets, and other devices.
 
-What is system on chip (SoC) ? Give any 2 examples of SoC.
+3)What is system on chip (SoC) ? Give any 2 examples of SoC.
 
 A system-on-a-chip (SoC) is an integrated circuit (IC) that integrates all components of a computer or other electronic system onto a single chip. SoCs are designed to minimize the number of external components required and provide a compact, integrated solution for electronic devices.
 
@@ -36,7 +36,7 @@ Here are two examples of SoCs:
 
 2.Apple A-series: A line of SoCs used in iPhones and iPads, the A-series combines a CPU, GPU, and other components onto a single chip, providing a compact and powerful solution for these devices.
 
-What are the differences between opcode and hex code ?
+4)What are the differences between opcode and hex code ?
 
 Opcode and hex code are two different representations of machine code, which is the binary code that is executed directly by a computer's processor.
 
@@ -44,7 +44,7 @@ Opcode, or operation code, refers to the instruction part of machine code, which
 
 Hex code, or hexadecimal code, is a representation of machine code in which each byte of code is represented by two hexadecimal digits. This representation is useful because it allows machine code to be easily viewed and manipulated by humans. Each hexadecimal digit represents four bits of binary code, and so two hexadecimal digits represent one byte of machine code.
 
-What are the advantages of digital systems over analog systems ?
+5)What are the advantages of digital systems over analog systems ?
 
 1.Precision: Digital systems can represent information with a high degree of precision, as they use a limited set of discrete values to represent information. Analog systems, on the other hand, can suffer from inaccuracies due to noise and other factors.
 
