@@ -10,7 +10,7 @@ Push Button
 LCD Display
 Jumper wires
 
-**Connections **
+**Connections**
 
 Connect the motor to Pin 3 of your Arduino Board
 Connect the push button to Pin 4 of your Arduino Board
