@@ -2,14 +2,14 @@ Hello Guys
 
 This repository contains an Arduino sketch for controlling a motor and displaying the elapsed time using an LCD display.
 
-Hardware Required
+> Hardware Required
 Arduino Board
 Motor
 Push Button
 LCD Display
 Jumper wires
 
-Connections 
+> Connections 
 Connect the motor to Pin 3 of your Arduino Board
 Connect the push button to Pin 4 of your Arduino Board
 Connect the LCD display to Pins 12, 11, 10, 9, 8, 7 of your Arduino Board
@@ -17,7 +17,7 @@ Upload the code to your Arduino Board
 Press the push button to turn on the motor
 The elapsed time will be displayed on the LCD display
 
-Code Explanation 
+> Code Explanation 
 
 This Arduino code controls a motor and displays the elapsed time on an LCD display. The code initializes the LiquidCrystal library to interface with the LCD display and sets up the pins for the motor, push button, and reset button.
 
